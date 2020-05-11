@@ -1,0 +1,45 @@
+.prenom
+{
+    color: #FEDA1F;
+}
+
+span[class="sous ligne"]
+{
+    text-decoration: underline #FEDA1F;
+}
+
+aside
+{
+   background-color: #FEDA1F;
+}
+
+.photo
+{
+   
+    border: #d8bd22; width: 20em;
+    border-style: solid;
+    border-radius: 50%
+}
+
+aside h2
+{
+    color: #FEDA1F;
+    background-color: #424242;
+    text-align: center;
+}
+
+span[class="justify"]
+{
+    text-align: justify;
+}
+
+
+
+.container
+
+{
+    flex
+
+}
+
+
